@@ -1,0 +1,1 @@
+# bash script to start the entire application
